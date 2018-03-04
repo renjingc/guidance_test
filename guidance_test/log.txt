@@ -1,0 +1,3 @@
+
+2017-02-07-21-36-21    enter TranslateFunc
+2017-02-07-21-36-21    start to read frames!
